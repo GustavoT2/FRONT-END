@@ -1,4 +1,2 @@
-"# FRONT-END" 
-"# FRONT-END" 
-"# FRONT-END" 
-"# Front-end" 
+liçoes de terça (Front-end-JavaScript) 
+
